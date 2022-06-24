@@ -1,0 +1,3 @@
+nickname : adam
+age : 38
+mobil no : 0993969664
